@@ -23,21 +23,21 @@ This repository contains a boilerplate for creating a Chrome extension using Rea
 
 1. Clone the repository:
 
-git clone https://github.com/redaessnoussi/react-chrome-extension-boilerplate.git
+> git clone https://github.com/redaessnoussi/react-chrome-extension-boilerplate.git
 
 2. Navigate to the project directory:
 
-cd react-chrome-extension-boilerplate
+> cd react-chrome-extension-boilerplate
 
 3. Install the dependencies:
 
-npm install
+> npm install
 
 ### Development
 
 To start the development server and watch for changes:
 
-npm run watch
+> npm run watch
 
 This will start Webpack in watch mode, recompiling your assets whenever you make changes.
 
@@ -45,7 +45,7 @@ This will start Webpack in watch mode, recompiling your assets whenever you make
 
 To build your extension for production:
 
-npm run build
+> npm run build
 
 This will create a `dist` directory with your compiled extension.
 
